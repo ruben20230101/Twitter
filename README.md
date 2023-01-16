@@ -11,4 +11,4 @@ The project was a great way to apply the data wrangling skills I had learned in 
 
 N.b. This repository contains two different Jupyter notebooks: "wrangle_act.ipynb" follows Udacity instructions and is the notebook that the included review is based on. The second notebook, "wrangle_act (original).ipynb" contains my original notebook, which I included because I found Udacity requirements to lead to unnecessary long and repetitive code
 
-I used the DRY principle and was able to reduce the code from ... to ... lines with no loss of functionality.
+I used the DRY principle and was able to reduce the code from 1364 to 1071 lines (-27%) while retaining full functionality.
