@@ -1,4 +1,4 @@
-# A minimalist approach to Data Wrangling
+# A minimalist approach to data wrangling
 Wrangle and Analyze Data (Udacity)
 
 The project involved working with data from the WeRateDogs twitter account, which rates dogs with humorous commentary. The data consisted of tweets, images, and other information related to the dogs. The data used in this analysis is a combination of a .csv, a .tsv, and a Tweepy-queried database. The data was dirty and needed to be cleaned and wrangled before analysis.
